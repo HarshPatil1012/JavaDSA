@@ -19,6 +19,7 @@ public class printsubarrays {
                 System.out.print("[ ");
 
                 // printing the subarray
+        //      for(int k = i; k <= j; k++) { 
                 for(int k = i; k < j+1; k++) { 
                     System.out.print(numbers[k] + " ");
                     sum += numbers[k];
