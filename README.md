@@ -1,11 +1,12 @@
 # JavaDSA
+Notes for Data Structures & Algorithms :
+https://www.notion.so/JAVA-DSA-1fff32647d5a803a81cbdab3a40158a0?source=copy_link
 
-This Repo, named JavaDSA, consists of practice questions of Data Structures & Algorithms in Java.
 
-There will be some good questions of Leetcode or Codefores.
+This Repo, named JavaDSA, consists of Notes for Data Structures & Algorithms in JAVA along with some practice questions, some good questions of Leetcode or Codefores.
 
 And I will also include previous year questions asked by different companies in there coding rounds
 
-Topics are as follows:
+Topics of Practice Questions are as follows:
 1. Patterns : Comprises in deepth knowledge of Loops and Conditional
 2. Arrays : data type arrays and usage of functions for many operations
