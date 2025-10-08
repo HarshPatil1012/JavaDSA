@@ -54,3 +54,6 @@ public class printsubarrays {
 
     }
 }
+
+// this code has a time complexity of O(n^3) because of the three nested loops
+// this is the brute force or most basic way to print subarrays
