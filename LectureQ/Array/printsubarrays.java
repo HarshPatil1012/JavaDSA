@@ -2,7 +2,7 @@ import java.util.*;
 
 public class printsubarrays {
 
-    public static void printsubarrays(int numbers[]) {
+    public static void PrintSubarrays(int numbers[]) {
     // variables initialization
         int totalSubarrays = 0;
         int max_sum = Integer.MIN_VALUE;
@@ -50,7 +50,7 @@ public class printsubarrays {
     public static void main(String args[]) {
       
         int[] numbers = {2, 4, 6, 8, 10};
-        printsubarrays(numbers);
+        PrintSubarrays(numbers);
 
     }
 }
