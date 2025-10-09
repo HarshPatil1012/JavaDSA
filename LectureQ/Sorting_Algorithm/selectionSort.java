@@ -4,7 +4,7 @@ public class selectionSort {
 
     // --> time complexity = O(n^2) in all cases (best, average, worst)
     
-    public static void selectionSort(int[] arr) {
+    public static void SelectionSort(int[] arr) {
         for(int i=0; i<arr.length; i++){
             int minPos = i;
             for(int j=i+1; j<arr.length; j++){
@@ -35,8 +35,9 @@ public class selectionSort {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();  
         }
-        selectionSort(arr);
+        SelectionSort(arr);
         printArr(arr);
+        sc.close();
     }
 
 }

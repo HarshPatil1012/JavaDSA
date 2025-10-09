@@ -4,7 +4,7 @@ public class insertionSort {
 
     // --> time complexity = O(n^2) in worst case and O(n) in best case (when array is already sorted)
 
-    public static void insertionSort(int[] arr) {
+    public static void InsertionSort(int[] arr) {
         for (int i = 1; i < arr.length; i++) {  // logic starts from 1st index bcz 0th index is already sorted
             int curr = arr[i];
             int prev = i - 1;  // Assuming 0 to i-1 is sorted
@@ -36,8 +36,9 @@ public class insertionSort {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        insertionSort(arr);
+        InsertionSort(arr);
         printArr(arr);
+        sc.close();
     }
 
 }

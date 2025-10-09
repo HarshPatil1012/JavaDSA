@@ -4,7 +4,7 @@ public class bubbleSort {
 
     // --> time complexity = O(n^2) in worst and average case and O(n) in best case (when array is already sorted)
 
-    public static void bubbleSort(int[] arr) {
+    public static void BubbleSort(int[] arr) {
         int n = arr.length;
         for (int turn = 0; turn < n - 1; turn++) {
             for (int j = 0; j < n - turn - 1; j++) {
@@ -22,7 +22,7 @@ public class bubbleSort {
         }
     }
 
-    public static void bubbleSortOptimized(int[] arr) {
+    public static void BubbleSortOptimized(int[] arr) {
         int n = arr.length;
         for (int turn = 0; turn < n - 1; turn++) {
             boolean swapped = false; // to check if any swapping happened in this pass
@@ -58,9 +58,10 @@ public class bubbleSort {
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
         }
-        bubbleSort(arr);
-        // bubbleSortOptimized(arr);
+        BubbleSort(arr);
+        // BubbleSortOptimized(arr);
         printArr(arr);
+        sc.close();
     }
 
 }
