@@ -10,3 +10,4 @@ And I will also include previous year questions asked by different companies in 
 Topics of Practice Questions are as follows:
 1. Patterns : Comprises in deepth knowledge of Loops and Conditional
 2. Arrays : data type arrays and usage of functions for many operations
+3. Sorting Algorithms : sorting arrays through different types of sorting methods
