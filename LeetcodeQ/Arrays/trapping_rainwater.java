@@ -52,7 +52,7 @@ public class trapping_rainwater {
             height[i] = sc.nextInt();
         }
         System.out.println("The total trapped rainwater is: " + trappedrainwater(height));
-
+        sc.close();
     }
 
 }
