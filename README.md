@@ -15,3 +15,5 @@ Topics of Practice Questions are as follows:
 3. Sorting Algorithms : sorting arrays through different types of sorting methods
 
 4. 2D Arrays : creating a matrix, traversing a matrix and some questions on spiral matrix, diagonal sum and staircase search
+
+5. Strings : creating a string, operations on strings and some questions on palindrome, string compression
