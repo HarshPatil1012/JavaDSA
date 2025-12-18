@@ -10,6 +10,7 @@ public class SubString {
     }
 
     public static void main(String[] args){
+
         String str = "This is a sample string";
         // Substring from index 7 to 12
         System.out.println("Substring from index 7 to 12: " + substring(str, 7, 12));
