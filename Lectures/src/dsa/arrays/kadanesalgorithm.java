@@ -1,6 +1,4 @@
-//more optimized approach than prefix sums
-
-import java.util.*;
+package dsa.arrays;//more optimized approach than prefix sums
 
 public class kadanesalgorithm{
 

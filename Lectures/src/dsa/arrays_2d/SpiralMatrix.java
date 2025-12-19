@@ -1,3 +1,5 @@
+package dsa.arrays_2d;
+
 import java.util.*;
 
 public class SpiralMatrix {

@@ -1,3 +1,5 @@
+package dsa.sorting_algorithms;
+
 import java.util.*;
 
 public class selectionSort {

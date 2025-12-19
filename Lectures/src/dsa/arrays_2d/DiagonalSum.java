@@ -1,4 +1,4 @@
-import java.util.*;
+package dsa.arrays_2d;
 
 public class DiagonalSum {
     public static void Diagonal_Sum(int matrix[][]) {

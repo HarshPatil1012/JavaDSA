@@ -1,3 +1,5 @@
+package dsa.strings;
+
 import java.util.*;
  
 public class StringCompression {

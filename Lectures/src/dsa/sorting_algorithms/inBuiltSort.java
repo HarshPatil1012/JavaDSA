@@ -1,3 +1,5 @@
+package dsa.sorting_algorithms;
+
 import java.util.*;
 
 // --> Arrays & Collections class is present in java.util package

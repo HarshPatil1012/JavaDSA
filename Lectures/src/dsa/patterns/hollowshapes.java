@@ -1,3 +1,5 @@
+package dsa.patterns;
+
 import java.util.*;
 
 public class hollowshapes {

@@ -1,4 +1,4 @@
-import java.util.*;
+package dsa.patterns;
 
 public class characterpattern {
   public static void main(String args[]) {

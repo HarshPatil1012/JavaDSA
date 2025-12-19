@@ -1,6 +1,4 @@
-// optimized approach to find the maximum and minimum subarray sum using prefix sums
-
-import java.util.*;
+package dsa.arrays;// optimized approach to find the maximum and minimum subarray sum using prefix sums
 
 public class prefixsum {
 

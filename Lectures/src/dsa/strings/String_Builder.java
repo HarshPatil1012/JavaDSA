@@ -1,6 +1,6 @@
-import java.util.*;
+package dsa.strings;
 
-public class String_Builder { 
+public class String_Builder {
     // can't be named StringBuilder as it is already a class in java.lang package
     public static void main(String args[]) {
         // Create a StringBuilder object

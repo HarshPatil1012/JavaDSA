@@ -1,4 +1,4 @@
-import java.util.*;
+package dsa.arrays_2d;
 
 public class StaircaseSearch {
 

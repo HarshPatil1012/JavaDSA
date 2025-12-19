@@ -1,4 +1,4 @@
-import java.util.*;
+package dsa.strings;
 
 public class SubString {
     public static String substring(String str, int start, int end) {
